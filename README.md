@@ -44,10 +44,10 @@ ______
 Guess a letter: 
 
 
-</pre>
+
 ...
 
-
+</pre>
 ---
 
 ## 🧠 Concepts Used
