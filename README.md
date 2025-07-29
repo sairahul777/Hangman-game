@@ -16,27 +16,35 @@ A fun and interactive **Hangman Game** built using Python. Guess the hidden word
 
 ## 🧪 Example Gameplay
 
-Guess a letter: a
-
-
-You guessed 'a', that's not in the word. You lose a life.
-
 <pre>
+ _                                             
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/    
+
+******************* 6/6 LIVES LEFT **********************
+______
+Guess a letter: l
+You guessed 'l', that's not in the word. You lose a life.
+
   +---+
   |   |
-      |
+  O   |
       |
       |
       |
 =========
 
-******************* 6/6 LIVES LEFT **********************
+******************* 5/6 LIVES LEFT **********************
+______
+Guess a letter: 
 
 
 </pre>
-Guess a letter: e
-You guessed correctly!
-
 ...
 
 
