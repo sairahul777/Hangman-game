@@ -72,24 +72,28 @@ Guess a letter:
 2. Clone this repository or download the script
 3. Open terminal or command prompt and run:
 
-```bash
+
 python hangman_game.py
 
 
 ✅ Ideal For
-Python beginners
 
-Practicing loops and string logic
+- Python beginners
 
-Understanding how to build text-based games
+- Practicing loops and string logic
 
-Fun terminal-based projects
+- Understanding how to build text-based games
+
+- Fun terminal-based projects
+
+---
 
 💡 Bonus Ideas
-Add difficulty levels (Easy/Medium/Hard)
 
-Track and display incorrect guesses
+- Add difficulty levels (Easy/Medium/Hard)
 
-Implement a high-score or leaderboard
+- Track and display incorrect guesses
 
-Add word categories (animals, movies, etc.)
+- Implement a high-score or leaderboard
+
+- Add word categories (animals, movies, etc.)
