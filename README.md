@@ -75,6 +75,7 @@ Guess a letter:
 
 python hangman_game.py
 
+---
 
 ✅ Ideal For
 
